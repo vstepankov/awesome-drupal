@@ -13,6 +13,10 @@
 
 ## Поля
 [maxlength](https://www.drupal.org/project/maxlength) - позволяет устанавливать максимальное количество символов для текстового поля. Имеет подсчёт оставшегося количества символов на JS
+[weight](https://www.drupal.org/project/weight) - добавляет тип поля "вес", с виджетом, как вес таксономии. Также добавляет поле перетаскивания элементов для views, которое можно использовать в табличном отображении. Не забудье в качестве критерия сортировки выставить вес.
+[fivestar](https://www.drupal.org/project/fivestar) - поле рейтинга в виде 5 звёзд или других виджетов. Позволяет пользователям голосовать за материал. Также предоставляет возможность оценивать связанную сущность, например, если отзывы реализованы через комментарии, то оценка, выставленная при комментировании агрегируется на связанном материалею
+
+[single_image_formatter](https://www.drupal.org/project/single_image_formatter) - позволяет выводить только первое изображение во множественных полях. Также поддерживает media и responsive_image
 
 ## Views
 [views_parity_row](https://www.drupal.org/project/views_parity_row) - позволяет комбинировать разные view modes в одном представлении.
@@ -26,6 +30,10 @@
 
 ## Контактные формы
 [webform](https://www.drupal.org/project/webform) - мощнейший модуль для создания любых контактных форм, анкет и опросников
+[antibot](https://www.drupal.org/project/antibot) - модуль для защиты от спама через любые формы на сайте. Основное преимущество - модуль совершенно незаметен для обычных пользователей, при этом очень эффективен против ботов.
+
+## Работа с содержимым
+[taxonomy_manager](https://www.drupal.org/project/taxonomy_manager) - позволяет массово создавать термины с иерархией из текстового списка. Также показывает древовидную структуру словаря, где все ветви изначально свёрнуты, что очень удобно при работе с очень большими словарями.
 
 ## Сборки
 
@@ -63,7 +71,6 @@ https://www.drupal.org/project/other_view_filter
 https://www.drupal.org/project/commerce_cart_redirection
 https://www.drupal.org/project/node_manager
 https://www.drupal.org/project/contentimport
-https://www.drupal.org/project/taxonomy_manager
 https://www.drupal.org/project/fences
 https://www.drupal.org/project/fullcalendar
 https://www.drupal.org/project/brussels_calendar
@@ -118,7 +125,6 @@ https://www.drupal.org/project/bootbase
 https://www.drupal.org/project/styleguide
 https://www.drupal.org/project/metatag_routes
 https://www.drupal.org/project/legal
-https://www.drupal.org/project/antibot
 https://www.drupal.org/project/ckeditor_uploadimage
 https://www.drupal.org/project/ckeditor_pasteimage
 https://www.drupal.org/project/node_view_permissions
@@ -140,7 +146,6 @@ https://www.drupal.org/project/no_admin_destination_redirect
 https://www.drupal.org/project/node_limit
 https://www.drupal.org/project/smtp
 https://www.drupal.org/project/draggableviews
-https://www.drupal.org/project/weight
 https://www.drupal.org/project/theme_breakpoints_js
 https://www.drupal.org/project/ueditor
 https://www.drupal.org/project/landingpage
@@ -159,7 +164,6 @@ https://www.drupal.org/project/pagerer
 https://www.drupal.org/project/scn
 https://www.drupal.org/project/no_autocomplete
 https://www.drupal.org/project/field_limiter
-https://www.drupal.org/project/single_image_formatter
 https://www.drupal.org/project/upgrade_rector
 https://www.drupal.org/project/twigsuggest
 https://www.drupal.org/project/happy_new_year
@@ -191,7 +195,6 @@ https://www.drupal.org/project/search_autocomplete
 https://www.drupal.org/project/commerce_marketplace
 https://www.drupal.org/project/openlucius
 https://www.drupal.org/project/transliterate_filenames
-https://www.drupal.org/project/fivestar
 https://www.drupal.org/project/empty_fields
 https://www.drupal.org/project/ulogin
 https://www.drupal.org/project/social_login
