@@ -41,6 +41,9 @@
 
 ## Сборки
 
+## Законодательство
+[fz152](https://www.drupal.org/project/fz152) - помогает следовать федеральному закону №152. Добавляет галочку "я даю согласие на обработку персональных данных" к любой вашей форме.
+
 ## Обновление и миграция
 
 ## Для разработчика
@@ -68,7 +71,6 @@ https://www.drupal.org/project/entityreference_filter
 https://www.drupal.org/project/social_auth_vk
 https://www.drupal.org/project/optimizedb
 https://www.drupal.org/project/views_conditional
-https://www.drupal.org/project/fz152
 https://www.drupal.org/project/block_field
 https://www.drupal.org/project/views_exclude_previous
 https://www.drupal.org/project/other_view_filter
