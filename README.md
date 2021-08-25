@@ -22,7 +22,7 @@
 
 ## Views
 [views_parity_row](https://www.drupal.org/project/views_parity_row) - позволяет комбинировать разные view modes в одном представлении.
-
+[other_view_filter](https://www.drupal.org/project/other_view_filter) - позволяет исключить строки (материалы, юзеров, etc) одного представления из другого
 ## Алиасы (ЧПУ)
 [subpathauto](https://www.drupal.org/project/subpathauto) - позволяет создавать алиасы для параметризованных роутов, например, user/**1**/contact > user/admin/contact
 
