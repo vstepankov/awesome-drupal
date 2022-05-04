@@ -9,6 +9,29 @@
 
 ## SEO
 * [metatag](https://www.drupal.org/project/metatag) - базовый модуль для установки **любых** мета-тегов
+* [yoast_seo](https://www.drupal.org/project/yoast_seo) - рекомендации, подсказки по SEO в режиме реального времени, при редактировании материала. Ориентир на гугл
+* [seo_checklist](https://www.drupal.org/project/seo_checklist) - рекомендации по SEO сайта в целом
+* [require_on_publish](https://www.drupal.org/project/require_on_publish) - добавляет поля, которые нужны только, если материал опубликован
+* [yandex_metrics](https://www.drupal.org/project/yandex_metrics) - Яндекс.Метрика, счётчик, отчёты и ... (был), есть желающие допилить?
+* [google_analytics](https://www.drupal.org/project/google_analytics) - стандартный Google Analytics, следящий за всеми и вся
+* [ga](https://www.drupal.org/project/ga) - более гибкая интеграция Google Analytics
+* [linkit](https://www.drupal.org/project/linkit) - простой способ внутреннего и внешнего связывания в WYSIWYG редакторе, с автодополнением, но без поддержки атрибутов ссылок.
+* [editor_advanced_link](https://www.drupal.org/project/editor_advanced_link) - диалог установки атрибутов ссылок в WYSIWYG редакторе
+* [linkchecker](https://www.drupal.org/project/linkchecker) - извлекает ссылки из материалов, и проверяет их доступность
+* [footnotes](https://www.drupal.org/project/footnotes) - автоматические нумерованные сноски
+* [redirect](https://www.drupal.org/project/redirect) - создание переадресаций вручную, или автоматически
+* [pathauto](https://www.drupal.org/project/pathauto) - автоматическая генерация псевдонимов URL материалов и переадресация путей
+* [easy_breadcrumb](https://www.drupal.org/project/easy_breadcrumb) - генерация строк навигации "хлебные крошки"
+* [menu_breadcrumb](https://www.drupal.org/project/menu_breadcrumb) - генерация строки навигации на основе меню
+* [sitemap](https://www.drupal.org/project/sitemap) - генерация навигации в виде карты сайта для посетителей
+* [simple_sitemap](https://www.drupal.org/project/simple_sitemap) - автоматическая генерация карты сайта для поисковиков
+* [menu_attributes](https://www.drupal.org/project/menu_attributes) - добавление атрибутов к ссылкам меню
+* [hreflang](https://www.drupal.org/project/hreflang) - автоматическое добавление тегов `<link rel="alternate" hreflang="x" />`
+* [schema_metatag](https://www.drupal.org/project/schema_metatag) - расширение модуля metatag для отображения структурированных данных в заголовке страниц
+* [similarterms](https://www.drupal.org/project/similarterms) - выявляет сходство в элементах материалов на основе терминов таксономии и ссылок, присвоенных материалы, что делает сайт более удобным для навигации.
+* [search404](https://www.drupal.org/project/search404) - модуль выполняет поиск по существующим ключевым словам в URL, вместо отображения стандартной страницы "ошибка 404".
+* [fast_404](https://www.drupal.org/project/fast_404) - быстрая страница ошибки 404, без загрузки drupal
+
 ## Формы
 
 ## Поля
